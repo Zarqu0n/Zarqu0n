@@ -14,12 +14,12 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Türkçe-brightgreen" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Zarquon </h1>
-<h3 align="center"> Electronic Engineer | Developer </h3>
+<h1 align="center">Hi , I am Zarquon </h1>
+<h3 align="center"> Electronic Engineer | Robotics Software Developer </h3>
 <p align="center">
 <a href=""  alt=""  /></a>  
-<a  align="center"  href="https://www.linkedin.com/in/h%C3%BCseyin-ayvac%C4%B1-zarquon/"> <b>Linkedin</b></a>
-<a  align="center"  href="https://www.instagram.com/zarqu0n/?hl=tr"> <b>İnsta</b></a>
+<a  align="center"  href="https://www.linkedin.com/in/h%C3%BCseyin-ayvac%C4%B1-zarquon/"> <b>LinkedIn</b></a>
+<a  align="center"  href="https://www.instagram.com/zarqu0n/?hl=tr"> <b>Insta</b></a>
 <a  align="center"  href="mailto: huseyin.z.ayvaci@gmail.com"> <b>Mail</b></a>
 </p>
 </p>
@@ -28,18 +28,12 @@
 
 <p align="center">
   <em>
-    Hello, I am Hüseyin Ayvacı a <b>final year</b> undergraduate from <a href="https://www.sakarya.edu.tr/"> <b>University Of Sakarya</b>, Turkey</a>. <br>
-    <b>A passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Autonomus and Control Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,
-
+    Hello, I am Hüseyin Ayvacı a <b>final year</b> graduated from <a href="https://www.sakarya.edu.tr/"> <b>University Of Sakarya</b>, Turkey</a>. <br>
+    <b>A passionate self-learner</b>
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
-✔ I’m currently Developing a Autonomus Control software for UAV project<br>
-✔ I’m currently learning about **Robot Operating System**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds <br>
 
  
 
@@ -48,17 +42,12 @@
   
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"></code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
   <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1280px-Ros_logo.svg.png"> </code>
   <code> <img height="50" src="https://seeklogo.com/images/G/gazebo-logo-51C46471CA-seeklogo.com.png"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"> </code> 
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/en/3/36/Simulink_Logo_%28non-wordmark%29.png"> </code> 
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"> </code>  
   <code> <img height="50" src="https://docs.px4.io/v1.11/assets/site/logo_pro_small.png"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/ArduPilot_logo.svg/2560px-ArduPilot_logo.svg.png"> </code>
   

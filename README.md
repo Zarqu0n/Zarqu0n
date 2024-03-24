@@ -1,66 +1,64 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/SkyEye_drone.png" height="200"/>
-</p>
-<br>
+<div align="center">
+  <img height="200" src="https://i.imghippo.com/files/1pRGi1711304567.webp"  />
+</div>
 
+###
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=Zarquon&color=brightgreen" alt="watching_count" />
- </p>
- <p align="center">
-<img src="https://img.shields.io/badge/Age-21-blue" />
-  <img src="https://img.shields.io/badge/Focus-Autonomus Control-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Turkey-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Türkçe-brightgreen" />
-</p>
-<hr>
-<h1 align="center">Hi , I am Zarquon </h1>
-<h3 align="center"> Electronic Engineer | Robotics Software Developer </h3>
-<p align="center">
-<a href=""  alt=""  /></a>  
-<a  align="center"  href="https://www.linkedin.com/in/h%C3%BCseyin-ayvac%C4%B1-zarquon/"> <b>LinkedIn</b></a>
-<a  align="center"  href="https://www.instagram.com/zarqu0n/?hl=tr"> <b>Insta</b></a>
-<a  align="center"  href="mailto: huseyin.z.ayvaci@gmail.com"> <b>Mail</b></a>
-</p>
-</p>
+<h2 align="center">Roboticist |  UAV Engineer</h2>
 
+###
 
+<p align="center">Hello, I am Hüseyin Ayvacı graduated from University Of Sakarya, Turkey.<br><b>A passionate self-learner</b></p>
 
-<p align="center">
-  <em>
-    Hello, I am Hüseyin Ayvacı a <b>final year</b> graduated from <a href="https://www.sakarya.edu.tr/"> <b>University Of Sakarya</b>, Turkey</a>. <br>
-    <b>A passionate self-learner</b>
-</p>
-<br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+###
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/h%C3%BCseyin-ayvac%C4%B1-zarquon/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="42" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCz2-mjSJS3UFIwKBw8frfNQ" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="54" height="42" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/zarqu0n.cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="42" alt="instagram logo"  />
+  </a>
+  <a href="huseyin.z.ayvaci@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="42" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zarqu0n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zarqu0n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Zarqu0n/Zarqu0n/output/snake.svg" alt="Snake animation" />
+
+###
 
  
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="left">
-  
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"></code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1280px-Ros_logo.svg.png"> </code>
-  <code> <img height="50" src="https://seeklogo.com/images/G/gazebo-logo-51C46471CA-seeklogo.com.png"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"> </code>  
-  <code> <img height="50" src="https://docs.px4.io/v1.11/assets/site/logo_pro_small.png"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/ArduPilot_logo.svg/2560px-ArduPilot_logo.svg.png"> </code>
-  
-  
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zarqu0n&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Zarqu0n&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
-<hr>
 
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>

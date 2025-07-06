@@ -33,23 +33,23 @@
 <h2 align="center">My working tools
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="54" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="54" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="54" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" width="54" alt="cmake logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="54" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="54" alt="docker logo"  />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/3979232?s=280&v=4" height="40" alt="ros logo"  />
+  <img src="https://avatars.githubusercontent.com/u/3979232?s=280&v=4" height="40" width="54" alt="ros logo"  />
   <img width="12" />
-  <img src="https://yt3.googleusercontent.com/fzt1pDJGR7ZZNeJkMuoYflARaSORmPSrOPDEr0pwQ-7CuoMuBK8fFg4T2jP-O2ylpPjW6kAW=s900-c-k-c0x00ffffff-no-rj" height="40" alt="px4 logo"  />
+  <img src="https://yt3.googleusercontent.com/fzt1pDJGR7ZZNeJkMuoYflARaSORmPSrOPDEr0pwQ-7CuoMuBK8fFg4T2jP-O2ylpPjW6kAW=s900-c-k-c0x00ffffff-no-rj" height="40" width="54" alt="px4 logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5bj9Ki9v2lpEMmUYcX-uQK5VuG9DpXdV08w&s" height="40" alt="px4 logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5bj9Ki9v2lpEMmUYcX-uQK5VuG9DpXdV08w&s" height="40" width="54" alt="px4 logo"  />
 </div>
 </h2>
 
